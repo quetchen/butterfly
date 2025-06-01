@@ -1,2 +1,2 @@
 # butterfly
-Butterflies and Rainbows
+Rainbows & Butterflies
