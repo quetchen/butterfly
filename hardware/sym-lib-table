@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "4691_butterfly")(type "KiCad")(uri "${KIPRJMOD}/4691.kicad_sym")(options "")(descr ""))
+)
